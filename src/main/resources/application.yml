@@ -1,0 +1,12 @@
+#springdoc:
+#  api-docs:
+#    enabled: true
+#  swagger-ui:
+#    path: /swagger-ui.html
+#    operationsSorter: alpha
+#    tagsSorter: alpha
+#    displayRequestDuration: true
+
+external:
+  api:
+    url: http:/www.my-external-api.com
